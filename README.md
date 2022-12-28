@@ -4,7 +4,7 @@
 ### Javascript Assignment-2: 8 Questions: [Github Link](https://github.com/Abhijeet03s/Javascript-Assignment-2)
 
 
-### Javascript Assignment-CodeSandbox:
+### Javascript Assignment-CodeSandbox: [Github Link](https://github.com/Abhijeet03s/Sandbox-Projects)
 
 |  *  |            Project Name            | Live Demo |
 | :-: | :----------------------------: | :-------: |
@@ -16,7 +16,7 @@
 | 06  |  JokesGenerator - API| [Live Demo](https://jokesgenerator-fs-js.netlify.app/)  |
 | 07  |  QRCodeGenerator - API| [Live Demo](https://qrcodegenerator-fs-js.netlify.app/)  |
 | 08  |  Age-Calculator| [Live Demo](https://age-calculator-fs-js.netlify.app/)  |
-| 09  |  BasicCounter| [Live Demo](https://qrcodegenerator-fs-js.netlify.app/)  |
+| 09  |  BasicCounter| [Live Demo](https://basiccounter-fs-js.netlify.app/)  |
 | 10  |  Binary2Decimal| [Live Demo](https://binary2decimal-fs-js.netlify.app/)  |
 | 11  |  Calculator| [Live Demo](https://calculator-fs-js.netlify.app/) |
 | 12  |  ClickTheButton| [Live Demo](https://clickthebutton-fs-js.netlify.app/)  |
